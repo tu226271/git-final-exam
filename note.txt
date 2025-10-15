@@ -1,3 +1,5 @@
 - Git giúp theo dõi lịch sử thay đổi của mã nguồn.
 - Git hỗ trợ làm việc nhóm hiệu quả và đồng bộ mã nguồn.
 - Git cung cấp các tính năng mạnh mẽ như xử lý xung đột và phục hồi phiên bản trước.
+- Cảm nhận 4: Git giúp quản lý các phiên bản phần mềm phức tạp một cách dễ dàng.
+- Cảm nhận 5: Git rất linh hoạt và có thể tích hợp với nhiều công cụ khác nhau như GitHub, GitLab.
