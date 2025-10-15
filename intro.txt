@@ -7,3 +7,9 @@ Kỹ năng:
 - Lập trình Python
 - Quản lý dự án
 - Giao tiếp tiếng Anh
+Kế hoạch học tập:
+- Học thêm về quản lý dự án
+- Ôn tập các thuật toán trong lập trình
+- Cải thiện kỹ năng giao tiếp tiếng Anh
+- Thực hành giải quyết vấn đề trong nhóm
+- Học cách sử dụng Git hiệu quả hơn
