@@ -1,0 +1,3 @@
+- Git giúp theo dõi lịch sử thay đổi của mã nguồn.
+- Git hỗ trợ làm việc nhóm hiệu quả và đồng bộ mã nguồn.
+- Git cung cấp các tính năng mạnh mẽ như xử lý xung đột và phục hồi phiên bản trước.
